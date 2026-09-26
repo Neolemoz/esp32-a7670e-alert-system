@@ -1,0 +1,6 @@
+secrets.h
+# Secrets and local-only files
+sketch_jul7a/
+*.bak
+A7670C_Diagnostic_Output.txt
+logger.py
